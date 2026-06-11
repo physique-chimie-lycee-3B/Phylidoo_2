@@ -1,0 +1,1583 @@
+[
+  {
+    "type": "file",
+    "name": "._.DS_Store",
+    "path": "._.DS_Store"
+  },
+  {
+    "type": "file",
+    "name": "._Physique-Chimie",
+    "path": "._Physique-Chimie"
+  },
+  {
+    "type": "file",
+    "name": ".___init__.py",
+    "path": ".___init__.py"
+  },
+  {
+    "type": "file",
+    "name": "._docs.json",
+    "path": "._docs.json"
+  },
+  {
+    "type": "file",
+    "name": "._index.html",
+    "path": "._index.html"
+  },
+  {
+    "type": "file",
+    "name": "._main.py",
+    "path": "._main.py"
+  },
+  {
+    "type": "file",
+    "name": "._search.html",
+    "path": "._search.html"
+  },
+  {
+    "type": "file",
+    "name": "._search.json",
+    "path": "._search.json"
+  },
+  {
+    "type": "file",
+    "name": "._search_keys_docs.json",
+    "path": "._search_keys_docs.json"
+  },
+  {
+    "type": "file",
+    "name": "._search_keys_docs.py",
+    "path": "._search_keys_docs.py"
+  },
+  {
+    "type": "folder",
+    "name": "Physique-Chimie",
+    "children": [
+      {
+        "type": "file",
+        "name": "._.DS_Store",
+        "path": "Physique-Chimie/._.DS_Store"
+      },
+      {
+        "type": "file",
+        "name": "._cours-physique-pour-professeurs-main",
+        "path": "Physique-Chimie/._cours-physique-pour-professeurs-main"
+      },
+      {
+        "type": "folder",
+        "name": "cours-physique-pour-professeurs-main",
+        "children": [
+          {
+            "type": "file",
+            "name": "._.DS_Store",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._.DS_Store"
+          },
+          {
+            "type": "file",
+            "name": "._CHIMIE",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._CHIMIE"
+          },
+          {
+            "type": "file",
+            "name": "._E1. Conversion de puissance e\u0301lectrome\u0301canique.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._E1. Conversion de puissance e\u0301lectrome\u0301canique."
+          },
+          {
+            "type": "file",
+            "name": "._E2. Induction e\u0301lectromagne\u0301tique.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._E2. Induction e\u0301lectromagne\u0301tique."
+          },
+          {
+            "type": "file",
+            "name": "._F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux."
+          },
+          {
+            "type": "file",
+            "name": "._F2. Mode\u0300le de l'e\u0301coulement parfait d'un fluide.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._F2. Mode\u0300le de l'e\u0301coulement parfait d'un fluide."
+          },
+          {
+            "type": "file",
+            "name": "._F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides."
+          },
+          {
+            "type": "file",
+            "name": "._M1. Gravitation.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._M1. Gravitation."
+          },
+          {
+            "type": "file",
+            "name": "._M2. Lois de conservation en dynamique",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._M2. Lois de conservation en dynamique"
+          },
+          {
+            "type": "file",
+            "name": "._M3. Cine\u0301matique relativiste. Expe\u0301rience de Michelson et Morley",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._M3. Cine\u0301matique relativiste. Expe\u0301rience de Michelson et Morley"
+          },
+          {
+            "type": "file",
+            "name": "._O1. Microscopies optiques.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O1. Microscopies optiques."
+          },
+          {
+            "type": "file",
+            "name": "._O2. Interfe\u0301rences a\u0300 deux ondes en optique",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O2. Interfe\u0301rences a\u0300 deux ondes en optique"
+          },
+          {
+            "type": "file",
+            "name": "._O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude."
+          },
+          {
+            "type": "file",
+            "name": "._O4. Diffraction de Fraunhofer.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O4. Diffraction de Fraunhofer."
+          },
+          {
+            "type": "file",
+            "name": "._O5. Diffraction par des structures pe\u0301riodiques.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O5. Diffraction par des structures pe\u0301riodiques."
+          },
+          {
+            "type": "file",
+            "name": "._O6. Absorption et e\u0301mission de la lumie\u0300re.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._O6. Absorption et e\u0301mission de la lumie\u0300re."
+          },
+          {
+            "type": "file",
+            "name": "._On1. Ondes progressives, ondes stationnaires.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._On1. Ondes progressives, ondes stationnaires."
+          },
+          {
+            "type": "file",
+            "name": "._On2. Ondes acoustiques.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._On2. Ondes acoustiques."
+          },
+          {
+            "type": "file",
+            "name": "._On3. Propagation guide\u0301e des ondes.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._On3. Propagation guide\u0301e des ondes."
+          },
+          {
+            "type": "file",
+            "name": "._P1. Re\u0301troaction et oscillations",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._P1. Re\u0301troaction et oscillations"
+          },
+          {
+            "type": "file",
+            "name": "._P2. Traitement d'un signal. E\u0301tude spectrale.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._P2. Traitement d'un signal. E\u0301tude spectrale."
+          },
+          {
+            "type": "file",
+            "name": "._P3. Phe\u0301nome\u0300nes de re\u0301sonance dans diffe\u0301rents domaines de la physique.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._P3. Phe\u0301nome\u0300nes de re\u0301sonance dans diffe\u0301rents domaines de la physique."
+          },
+          {
+            "type": "file",
+            "name": "._P4. Oscillateurs ; portraits de phase et non-line\u0301arite\u0301s.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._P4. Oscillateurs ; portraits de phase et non-line\u0301arite\u0301s."
+          },
+          {
+            "type": "file",
+            "name": "._Phylidoo General",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._Phylidoo General"
+          },
+          {
+            "type": "file",
+            "name": "._Q1 Effet tunnel, application a\u0300 la radioactivite\u0301 alpha.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._Q1 Effet tunnel, application a\u0300 la radioactivite\u0301 alpha."
+          },
+          {
+            "type": "file",
+            "name": "._S1. Me\u0301canismes de la conduction e\u0301lectrique dans les solides.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._S1. Me\u0301canismes de la conduction e\u0301lectrique dans les solides."
+          },
+          {
+            "type": "file",
+            "name": "._S2. Approche macroscopique du ferromagne\u0301tisme.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._S2. Approche macroscopique du ferromagne\u0301tisme."
+          },
+          {
+            "type": "file",
+            "name": "._T1. Premier principe de la thermodynamique",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._T1. Premier principe de la thermodynamique"
+          },
+          {
+            "type": "file",
+            "name": "._T2. Transitions de phase.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._T2. Transitions de phase."
+          },
+          {
+            "type": "file",
+            "name": "._T3. Phe\u0301nome\u0300nes de transport.",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/._T3. Phe\u0301nome\u0300nes de transport."
+          },
+          {
+            "type": "folder",
+            "name": "CHIMIE",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Acide-Base.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/._Acide-Base.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._TP",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/._TP"
+              },
+              {
+                "type": "file",
+                "name": "._binaire.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/._binaire.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._comptes rendus",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/._comptes rendus"
+              },
+              {
+                "type": "file",
+                "name": "._slide chimie.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/._slide chimie.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Acide-Base.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/Acide-Base.pdf"
+              },
+              {
+                "type": "folder",
+                "name": "TP",
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "._Liste_Manip.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/._Liste_Manip.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._TP_cours_ge\u0301ne\u0301_correction.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/._TP_cours_ge\u0301ne\u0301_correction.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._TP_cours_orga_correction.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/._TP_cours_orga_correction.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Liste_Manip.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/Liste_Manip.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "TP_cours_ge\u0301ne\u0301_correction.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/TP_cours_ge\u0301ne\u0301_correction.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "TP_cours_orga_correction.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/TP/TP_cours_orga_correction.pdf"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "binaire.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/binaire.pdf"
+              },
+              {
+                "type": "folder",
+                "name": "comptes rendus",
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "._Dakin-Bauxite.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._Dakin-Bauxite.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._TP_postes_Physiciens_2025_2026.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._TP_postes_Physiciens_2025_2026.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._acetate_benzyle-corrosion_fer.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._acetate_benzyle-corrosion_fer.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._bauxite.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._bauxite.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._courbe i-E du fer.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._courbe i-E du fer.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._enthalpie_MgO.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._enthalpie_MgO.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._extraction_limonene-distillation_fractionne\u0301e.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._extraction_limonene-distillation_fractionne\u0301e.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._javel-mohr-peroxyde.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._javel-mohr-peroxyde.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._menthone-jasmin.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._menthone-jasmin.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._nylon-menthole.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._nylon-menthole.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._saponification-pka_spectro.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._saponification-pka_spectro.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._tertiobutyle-anodisation Alu.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/._tertiobutyle-anodisation Alu.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Dakin-Bauxite.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/Dakin-Bauxite.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "TP_postes_Physiciens_2025_2026.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/TP_postes_Physiciens_2025_2026.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "acetate_benzyle-corrosion_fer.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/acetate_benzyle-corrosion_fer.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "bauxite.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/bauxite.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "courbe i-E du fer.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/courbe i-E du fer.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "enthalpie_MgO.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/enthalpie_MgO.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "extraction_limonene-distillation_fractionne\u0301e.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/extraction_limonene-distillation_fractionne\u0301e.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "javel-mohr-peroxyde.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/javel-mohr-peroxyde.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "menthone-jasmin.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/menthone-jasmin.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "nylon-menthole.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/nylon-menthole.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "saponification-pka_spectro.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/saponification-pka_spectro.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "tertiobutyle-anodisation Alu.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/comptes rendus/tertiobutyle-anodisation Alu.pdf"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "slide chimie.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/CHIMIE/slide chimie.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "E1. Conversion de puissance e\u0301lectrome\u0301canique.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105106.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/E1. Conversion de puissance e\u0301lectrome\u0301canique./._Scan_20260604_105106.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105106.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/E1. Conversion de puissance e\u0301lectrome\u0301canique./Scan_20260604_105106.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "E2. Induction e\u0301lectromagne\u0301tique.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104959.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/E2. Induction e\u0301lectromagne\u0301tique./._Scan_20260604_104959.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104959.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/E2. Induction e\u0301lectromagne\u0301tique./Scan_20260604_104959.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Chute_bille.py",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux./._Chute_bille.py"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173421.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux./._Scan_20260604_173421.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Chute_bille.py",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux./Chute_bille.py"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173421.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F1. Notion de viscosite\u0301 d'un fluide. E\u0301coulements visqueux./Scan_20260604_173421.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "F2. Mode\u0300le de l'e\u0301coulement parfait d'un fluide.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105320.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F2. Mode\u0300le de l'e\u0301coulement parfait d'un fluide./._Scan_20260604_105320.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105320.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F2. Mode\u0300le de l'e\u0301coulement parfait d'un fluide./Scan_20260604_105320.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._F3.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides./._F3.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173636.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides./._Scan_20260604_173636.pdf"
+              },
+              {
+                "type": "file",
+                "name": "F3.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides./F3.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173636.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/F3. Phe\u0301nome\u0300nes interfaciaux impliquant des fluides./Scan_20260604_173636.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "M1. Gravitation.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_183108.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M1. Gravitation./._Scan_20260604_183108.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260606_210801.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M1. Gravitation./._Scan_20260606_210801.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_183108.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M1. Gravitation./Scan_20260604_183108.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260606_210801.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M1. Gravitation./Scan_20260606_210801.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "M2. Lois de conservation en dynamique",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105418.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M2. Lois de conservation en dynamique/._Scan_20260604_105418.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105418.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M2. Lois de conservation en dynamique/Scan_20260604_105418.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "M3. Cine\u0301matique relativiste. Expe\u0301rience de Michelson et Morley",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_182324.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M3. Cine\u0301matique relativiste. Expe\u0301rience de Michelson et Morley/._Scan_20260604_182324.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_182324.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/M3. Cine\u0301matique relativiste. Expe\u0301rience de Michelson et Morley/Scan_20260604_182324.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O1. Microscopies optiques.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._15_darkfield_sl.mp4",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./._15_darkfield_sl.mp4"
+              },
+              {
+                "type": "file",
+                "name": "._16_fluoconfocal_fr.mp4",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./._16_fluoconfocal_fr.mp4"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105843.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./._Scan_20260604_105843.pdf"
+              },
+              {
+                "type": "file",
+                "name": "15_darkfield_sl.mp4",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./15_darkfield_sl.mp4"
+              },
+              {
+                "type": "file",
+                "name": "16_fluoconfocal_fr.mp4",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./16_fluoconfocal_fr.mp4"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105843.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O1. Microscopies optiques./Scan_20260604_105843.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O2. Interfe\u0301rences a\u0300 deux ondes en optique",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173106.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O2. Interfe\u0301rences a\u0300 deux ondes en optique/._Scan_20260604_173106.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173106.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O2. Interfe\u0301rences a\u0300 deux ondes en optique/Scan_20260604_173106.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173821.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./._Scan_20260604_173821.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260606_210643.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./._Scan_20260606_210643.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._plan.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./._plan.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173821.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./Scan_20260604_173821.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260606_210643.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./Scan_20260606_210643.pdf"
+              },
+              {
+                "type": "file",
+                "name": "plan.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O3. Interfe\u0301rome\u0301trie a\u0300 division d'amplitude./plan.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O4. Diffraction de Fraunhofer.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105551.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O4. Diffraction de Fraunhofer./._Scan_20260604_105551.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105551.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O4. Diffraction de Fraunhofer./Scan_20260604_105551.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O5. Diffraction par des structures pe\u0301riodiques.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_172827.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O5. Diffraction par des structures pe\u0301riodiques./._Scan_20260604_172827.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_172827.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O5. Diffraction par des structures pe\u0301riodiques./Scan_20260604_172827.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "O6. Absorption et e\u0301mission de la lumie\u0300re.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_182805.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O6. Absorption et e\u0301mission de la lumie\u0300re./._Scan_20260604_182805.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_182805.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/O6. Absorption et e\u0301mission de la lumie\u0300re./Scan_20260604_182805.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "On1. Ondes progressives, ondes stationnaires.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_182632.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On1. Ondes progressives, ondes stationnaires./._Scan_20260604_182632.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_182632.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On1. Ondes progressives, ondes stationnaires./Scan_20260604_182632.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "On2. Ondes acoustiques.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._On2.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On2. Ondes acoustiques./._On2.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173934.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On2. Ondes acoustiques./._Scan_20260604_173934.pdf"
+              },
+              {
+                "type": "file",
+                "name": "On2.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On2. Ondes acoustiques./On2.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173934.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On2. Ondes acoustiques./Scan_20260604_173934.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "On3. Propagation guide\u0301e des ondes.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_182522.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On3. Propagation guide\u0301e des ondes./._Scan_20260604_182522.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_182522.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/On3. Propagation guide\u0301e des ondes./Scan_20260604_182522.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "P1. Re\u0301troaction et oscillations",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_182959.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P1. Re\u0301troaction et oscillations/._Scan_20260604_182959.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_182959.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P1. Re\u0301troaction et oscillations/Scan_20260604_182959.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "P2. Traitement d'un signal. E\u0301tude spectrale.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105712.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P2. Traitement d'un signal. E\u0301tude spectrale./._Scan_20260604_105712.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105712.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P2. Traitement d'un signal. E\u0301tude spectrale./Scan_20260604_105712.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "P3. Phe\u0301nome\u0300nes de re\u0301sonance dans diffe\u0301rents domaines de la physique.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104643.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P3. Phe\u0301nome\u0300nes de re\u0301sonance dans diffe\u0301rents domaines de la physique./._Scan_20260604_104643.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104643.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P3. Phe\u0301nome\u0300nes de re\u0301sonance dans diffe\u0301rents domaines de la physique./Scan_20260604_104643.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "P4. Oscillateurs ; portraits de phase et non-line\u0301arite\u0301s.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_105211.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P4. Oscillateurs ; portraits de phase et non-line\u0301arite\u0301s./._Scan_20260604_105211.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_105211.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/P4. Oscillateurs ; portraits de phase et non-line\u0301arite\u0301s./Scan_20260604_105211.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "Phylidoo General",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Agregat_LP.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._Agregat_LP.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._COURS_EXPLOITATION_2025_2026_phys.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._COURS_EXPLOITATION_2025_2026_phys.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Lecons pre-ecrits.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._Lecons pre-ecrits.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._Monte_Carlo.py",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._Monte_Carlo.py"
+              },
+              {
+                "type": "file",
+                "name": "._chimie cours",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._chimie cours"
+              },
+              {
+                "type": "file",
+                "name": "._lecon_physique_marchetti.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._lecon_physique_marchetti.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._physique cours",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._physique cours"
+              },
+              {
+                "type": "file",
+                "name": "._plans_lecon_chimie.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._plans_lecon_chimie.pdf"
+              },
+              {
+                "type": "file",
+                "name": "._plans_lecon_physique.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/._plans_lecon_physique.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Agregat_LP.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/Agregat_LP.pdf"
+              },
+              {
+                "type": "file",
+                "name": "COURS_EXPLOITATION_2025_2026_phys.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/COURS_EXPLOITATION_2025_2026_phys.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Lecons pre-ecrits.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/Lecons pre-ecrits.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Monte_Carlo.py",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/Monte_Carlo.py"
+              },
+              {
+                "type": "folder",
+                "name": "chimie cours",
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "._Chimie Physique",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Chimie Physique"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Chimie organique",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Chimie organique"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Chimie_Solutions",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Chimie_Solutions"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Fascicule_Cours_Thermo_Electrochimie_Prof.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Fascicule_Cours_Thermo_Electrochimie_Prof.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Liste_Manip.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Liste_Manip.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Me\u0301mo Chimie ge\u0301ne\u0301rale.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Me\u0301mo Chimie ge\u0301ne\u0301rale.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Python",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Python"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Regressi",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Regressi"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Risque chimique.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._Risque chimique.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._manips_chimie.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/._manips_chimie.pdf"
+                  },
+                  {
+                    "type": "folder",
+                    "name": "Chimie Physique",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._Theme1.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/._Theme1.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Theme2.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/._Theme2.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Theme3.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/._Theme3.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Theme4.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/._Theme4.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Theme5.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/._Theme5.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Theme1.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/Theme1.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Theme2.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/Theme2.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Theme3.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/Theme3.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Theme4.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/Theme4.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Theme5.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie Physique/Theme5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "name": "Chimie organique",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._Chap_1___Repre\u0301sentation_plane_et_nomenclature_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie organique/._Chap_1___Repre\u0301sentation_plane_et_nomenclature_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Chap_2___Ste\u0301re\u0301ochimie_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie organique/._Chap_2___Ste\u0301re\u0301ochimie_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Chap_1___Repre\u0301sentation_plane_et_nomenclature_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie organique/Chap_1___Repre\u0301sentation_plane_et_nomenclature_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Chap_2___Ste\u0301re\u0301ochimie_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie organique/Chap_2___Ste\u0301re\u0301ochimie_comple\u0301te\u0301.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "name": "Chimie_Solutions",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 1_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 1_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 2_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 2_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 3_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 3_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 4_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 4_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 5_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 5_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 6_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 6_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 7_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 7_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Cours chimie des solutions chap 8_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/._Cours chimie des solutions chap 8_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 1_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 1_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 2_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 2_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 3_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 3_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 4_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 4_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 5_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 5_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 6_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 6_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 7_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 7_comple\u0301te\u0301.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Cours chimie des solutions chap 8_comple\u0301te\u0301.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Chimie_Solutions/Cours chimie des solutions chap 8_comple\u0301te\u0301.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "name": "Fascicule_Cours_Thermo_Electrochimie_Prof.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Fascicule_Cours_Thermo_Electrochimie_Prof.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Liste_Manip.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Liste_Manip.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Me\u0301mo Chimie ge\u0301ne\u0301rale.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Me\u0301mo Chimie ge\u0301ne\u0301rale.pdf"
+                  },
+                  {
+                    "type": "folder",
+                    "name": "Python",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._Monte-Carlo_incertitudes.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._Monte-Carlo_incertitudes.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Monte-Carlo_regression.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._Monte-Carlo_regression.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._donnees_chute_libre.txt",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._donnees_chute_libre.txt"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._regression.csv",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._regression.csv"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._regression2.csv",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._regression2.csv"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._regression_residus.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._regression_residus.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._trace_hist_calo.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._trace_hist_calo.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._trace_hist_chute.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/._trace_hist_chute.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Monte-Carlo_incertitudes.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/Monte-Carlo_incertitudes.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Monte-Carlo_regression.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/Monte-Carlo_regression.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "donnees_chute_libre.txt",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/donnees_chute_libre.txt"
+                      },
+                      {
+                        "type": "file",
+                        "name": "regression.csv",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/regression.csv"
+                      },
+                      {
+                        "type": "file",
+                        "name": "regression2.csv",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/regression2.csv"
+                      },
+                      {
+                        "type": "file",
+                        "name": "regression_residus.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/regression_residus.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "trace_hist_calo.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/trace_hist_calo.py"
+                      },
+                      {
+                        "type": "file",
+                        "name": "trace_hist_chute.py",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Python/trace_hist_chute.py"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "name": "Regressi",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._Dosage_conducti.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/._Dosage_conducti.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Dosage_etalonnage.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/._Dosage_etalonnage.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Dosage_pH.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/._Dosage_pH.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Dosage_pH_bis.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/._Dosage_pH_bis.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._Suivi_cine\u0301tique.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/._Suivi_cine\u0301tique.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Dosage_conducti.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/Dosage_conducti.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Dosage_etalonnage.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/Dosage_etalonnage.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Dosage_pH.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/Dosage_pH.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Dosage_pH_bis.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/Dosage_pH_bis.rw3"
+                      },
+                      {
+                        "type": "file",
+                        "name": "Suivi_cine\u0301tique.rw3",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Regressi/Suivi_cine\u0301tique.rw3"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "name": "Risque chimique.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/Risque chimique.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "manips_chimie.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/chimie cours/manips_chimie.pdf"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "lecon_physique_marchetti.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/lecon_physique_marchetti.pdf"
+              },
+              {
+                "type": "folder",
+                "name": "physique cours",
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "._Agregation-2025-2026-Relativite-abre\u0301ge\u0301.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._Agregation-2025-2026-Relativite-abre\u0301ge\u0301.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Hecht - Optique.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._Hecht - Optique.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Physique pour l'agre\u0301gation -- Jules Fillette.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._Physique pour l'agre\u0301gation -- Jules Fillette.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._Raoux - Poly de cours L3.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._Raoux - Poly de cours L3.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._TD-PhysStat-Montrouge-2025.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._TD-PhysStat-Montrouge-2025.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._TDThermo2025.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._TDThermo2025.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._optique",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._optique"
+                  },
+                  {
+                    "type": "file",
+                    "name": "._puissance-2.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/._puissance-2.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Agregation-2025-2026-Relativite-abre\u0301ge\u0301.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/Agregation-2025-2026-Relativite-abre\u0301ge\u0301.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Hecht - Optique.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/Hecht - Optique.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Physique pour l'agre\u0301gation -- Jules Fillette.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/Physique pour l'agre\u0301gation -- Jules Fillette.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Raoux - Poly de cours L3.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/Raoux - Poly de cours L3.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "TD-PhysStat-Montrouge-2025.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/TD-PhysStat-Montrouge-2025.pdf"
+                  },
+                  {
+                    "type": "file",
+                    "name": "TDThermo2025.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/TDThermo2025.pdf"
+                  },
+                  {
+                    "type": "folder",
+                    "name": "optique",
+                    "children": [
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_coherence_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_coherence_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_coherence_corrige_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_coherence_corrige_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_diffraction_1_corrige_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_diffraction_1_corrige_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_diffraction_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_diffraction_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_geometrique_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_geometrique_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_geometrique_corrige_v2024_v2.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_geometrique_corrige_v2024_v2.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "._optique_TD_polarisation.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/._optique_TD_polarisation.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_coherence_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_coherence_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_coherence_corrige_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_coherence_corrige_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_diffraction_1_corrige_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_diffraction_1_corrige_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_diffraction_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_diffraction_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_geometrique_2025.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_geometrique_2025.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_geometrique_corrige_v2024_v2.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_geometrique_corrige_v2024_v2.pdf"
+                      },
+                      {
+                        "type": "file",
+                        "name": "optique_TD_polarisation.pdf",
+                        "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/optique/optique_TD_polarisation.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "name": "puissance-2.pdf",
+                    "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/physique cours/puissance-2.pdf"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "plans_lecon_chimie.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/plans_lecon_chimie.pdf"
+              },
+              {
+                "type": "file",
+                "name": "plans_lecon_physique.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Phylidoo General/plans_lecon_physique.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "Q1 Effet tunnel, application a\u0300 la radioactivite\u0301 alpha.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104749.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Q1 Effet tunnel, application a\u0300 la radioactivite\u0301 alpha./._Scan_20260604_104749.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104749.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/Q1 Effet tunnel, application a\u0300 la radioactivite\u0301 alpha./Scan_20260604_104749.pdf"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "README.md",
+            "path": "Physique-Chimie/cours-physique-pour-professeurs-main/README.md"
+          },
+          {
+            "type": "folder",
+            "name": "S1. Me\u0301canismes de la conduction e\u0301lectrique dans les solides.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_172940.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/S1. Me\u0301canismes de la conduction e\u0301lectrique dans les solides./._Scan_20260604_172940.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_172940.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/S1. Me\u0301canismes de la conduction e\u0301lectrique dans les solides./Scan_20260604_172940.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "S2. Approche macroscopique du ferromagne\u0301tisme.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104533.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/S2. Approche macroscopique du ferromagne\u0301tisme./._Scan_20260604_104533.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104533.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/S2. Approche macroscopique du ferromagne\u0301tisme./Scan_20260604_104533.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "T1. Premier principe de la thermodynamique",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_173241.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T1. Premier principe de la thermodynamique/._Scan_20260604_173241.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_173241.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T1. Premier principe de la thermodynamique/Scan_20260604_173241.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "T2. Transitions de phase.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104333.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T2. Transitions de phase./._Scan_20260604_104333.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104333.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T2. Transitions de phase./Scan_20260604_104333.pdf"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "T3. Phe\u0301nome\u0300nes de transport.",
+            "children": [
+              {
+                "type": "file",
+                "name": "._Scan_20260604_104859.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T3. Phe\u0301nome\u0300nes de transport./._Scan_20260604_104859.pdf"
+              },
+              {
+                "type": "file",
+                "name": "Scan_20260604_104859.pdf",
+                "path": "Physique-Chimie/cours-physique-pour-professeurs-main/T3. Phe\u0301nome\u0300nes de transport./Scan_20260604_104859.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
